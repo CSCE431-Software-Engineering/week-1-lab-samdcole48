@@ -75,3 +75,4 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "brakeman"
 gem "rubocop"
+gem "seed_dump"
